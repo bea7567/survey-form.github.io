@@ -1,0 +1,138 @@
+body {
+    background-color: lavender;
+    text-align: center;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+input,
+textarea,
+select {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: text;
+}
+
+label {
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}
+
+.input-element {
+    margin-bottom: 10px;
+}
+
+/* Additional Styles */
+
+#title {
+    margin-top: 50px;
+}
+
+#description {
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#submit {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#submit:hover {
+    background-color: #45a049;
+}
+
+@media (max-width: 600px) {
+    form {
+        max-width: 80%;
+    }
+}
+body {
+    background-color: lavender;
+    text-align: center;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+input,
+textarea,
+select {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: text;
+}
+
+label {
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}
+
+.input-element {
+    margin-bottom: 10px;
+}
+
+/* Additional Styles */
+
+#title {
+    margin-top: 50px;
+}
+
+#description {
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#submit {
+    padding: 10px 20px;
+    background-color: #a030eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#submit:hover {
+    background-color: #bd72ee;
+}
+
+@media (max-width: 600px) {
+    form {
+        max-width: 80%;
+    }
+}
